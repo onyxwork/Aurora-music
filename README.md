@@ -176,8 +176,8 @@ aurora-music/
 
 **Егор** — начинающий разработчик Python + Web
 
-- GitHub: [@ТВОЙ_НИК](https://github.com/ТВОЙ_НИК)
-- Telegram: [@ТВОЙ_ТЕЛЕГРАМ](https://t.me/ТВОЙ_ТЕЛЕГРАМ)
+- GitHub: [@onyxwork](https://github.com/onyxwork)
+- Telegram: [@onyxdev666](https://t.me/onyxdev666)
 
 ---
 
