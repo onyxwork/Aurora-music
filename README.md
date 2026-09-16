@@ -9,7 +9,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-a855f7?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![License: MIT](https://img.shields.io/badge/License-MIT-a855f7?style=for-the-badge)](LICENSE)
 
-[Демо](https://ТВОЙ_НИК.github.io/aurora-music/) · [Возможности](#-возможности) · [Установка](#-быстрый-старт) · [Стек](#-технологии)
+[Демо](https://onyxwork.github.io/aurora-music/) · [Возможности](#-возможности) · [Установка](#-быстрый-старт) · [Стек](#-технологии)
 
 </div>
 
