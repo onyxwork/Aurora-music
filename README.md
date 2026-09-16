@@ -44,7 +44,7 @@
 <div align="center">
 
 ### Главный экран
-![Главный экран](screenshots/main.png)
+![Главный экран](screenshots/main.jpg)
 
 ### Редактирование трека с загрузкой обложки
 ![Редактирование](screenshots/edit.png)
